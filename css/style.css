@@ -1,0 +1,37 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+.parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image-1 {
+    background-image: url(../img/gotdaflow-P8_RmeffU-w-unsplash.jpg);
+}
+
+.image-2 {
+    background-image: url(../img/james-barker-v3-zcCWMjgM-unsplash.jpg);
+}
+
+.image-3 {
+    background-image: url(../img/lucrezia-carnelos-WrG-lFojjW4-unsplash.jpg);
+}
+
+.image-4 {
+    background-image: url(../img/matt-nelson-aI3EBLvcyu4-unsplash.jpg);
+}
+
+.text-background {
+    background-color: rgba(0,0,0, 0.5);
+    margin: 0 auto;
+    width: 50%;
+}
